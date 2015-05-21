@@ -38,7 +38,7 @@ A. I developed this plugin because i found that i was writing HTML in text widge
 
 
 == Screenshots ==
-1. https://jaydenmajor.com/wp-content/uploads/2015/05/plugin-screenshoot.png
+1. Screenshot of the plugin working in a widget area.
 
 == Change Log ==
 
